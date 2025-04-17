@@ -1,2 +1,2 @@
-# Šis ir komentārs
+# Šis ir komentārs!
 print('Šī ir "print" komanda!')
